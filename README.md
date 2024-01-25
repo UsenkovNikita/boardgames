@@ -1,2 +1,2 @@
 # boardgames
-my repo for bg
+my test repo
